@@ -26,6 +26,7 @@
 header {
   background-color: maroon;
   width: 100%;
+  border: 1px solid;
 }
 h1,
 .title {
@@ -78,3 +79,20 @@ div,
  li{
 	 display: inline-block;
  }
+ 
+ footer {
+	 background-color: black;
+	 height: 75px;
+ }
+ 
+ h4 {
+	 float: center;
+	 padding: 30px;
+ }
+ 
+ h4 ,.cpr {
+	 color: gold;
+	 font-family: marvel;
+	 text-align: center;
+ }
+	 
